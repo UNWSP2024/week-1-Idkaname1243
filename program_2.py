@@ -1,6 +1,6 @@
 def proverbs_22_29():
     # Write your Proverbs 22:29 code below
-    print("seest thou a man diligent in his business? he shall stand before kings; He shall not stand before mean men.")
+    print('Do you see someone skilled in their work? They will serve before kings; they will not serve before officials of low rank.')
     
 
 proverbs_22_29()
